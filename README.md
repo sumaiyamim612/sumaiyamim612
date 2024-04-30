@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi. I am Sumaiya Islam Mim. Recently, I completed my graduation from the Department of Software Engineering at Daffodil International University. I want to build my career as a software quality assurance Engineer. I am looking for an opportunity in this area.
+Hi. I am Sumaiya Islam Mim. I completed my graduation from the Department of Software Engineering at Daffodil International University. I want to build my career as a software quality assurance Engineer. I am looking for an opportunity in this area.
 
 
 ## 🌐 Socials:
